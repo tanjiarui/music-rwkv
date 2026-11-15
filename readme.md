@@ -7,7 +7,7 @@ The framework jointly models:
 - Metadata Tokens (Genre, Artist, Lyrics)
 
 through a unified self-supervised objective based on RWKV. For more details, please refer to our [paper](https://arxiv.org/abs/2611.16718).
-![framework](/home/ubuntu/文档/music rwkv/framework.png)
+![framework](framework.png)
 
 ---
 ## Features
