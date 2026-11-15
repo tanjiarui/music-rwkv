@@ -1,0 +1,7 @@
+torch
+pandas
+transformers==4.56.2
+torchaudio==2.8.0
+muq
+loralib
+ninja
